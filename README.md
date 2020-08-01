@@ -1,11 +1,18 @@
+<div style="display: flex;align-items: center;padding-bottom: 1em;">
+    <a href="./">
+        <img src="./images/avatar.png" style="width: 200px;border-radius: 50%;">
+    </a>
+    <div style="padding-left: 2em;">
+        <h1 style="margin:0;padding:0;">Hola soy Jesús 👍🏽</h1>
+        <h3 style="margin:0;padding:0;">Programador Web 👨🏽‍💻 </h4>
+    </div>
+</div>
 
-<h1 align="center">Hola 👋, soy Jesús Antonio Ugaz Vegas.</h1>
-<h3 align="center">Un desarrollador frontend apasionado de Lima, Perú</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jugaz" alt="jugaz" /> </p>
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jugaz&show_icons=true" alt="jugaz" /> </p>
-
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jes%c3%bas-antonio-ugaz-vegas-ab04a8173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jes%c3%bas-antonio-ugaz-vegas-ab04a8173/" height="20" width="20" /></a>
-</p>
+<p style="font-size:20px;font-weight: bold;margin: 0;">Puedes Buscarme en:</p>
+<a href="https://www.linkedin.com/in/jes%C3%BAs-antonio-ugaz-vegas-ab04a8173/"
+    style="display:flex;align-items:center;color:#1083B9;font-size:18px;padding: 1em 0;">
+    <img
+        src="./images/image.png" width="24px" height="24px" style="margin-right:5px">Linkedin</a>
+<a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJTGmdmKnHkFmXLDVbncrmhrFjSbXjrlZRsmFSFlQSCtsSbJmzJrrWzbGKpBwTlTQWNNlFg"
+    style="display:flex;align-items:center;" style="display:flex;align-items:center;color:#1083B9;font-size:18px;"><img
+        src="./images/logo1.png" width="28px" height="22px" style="margin-right:5px">jesusugazv@gmail.com</a>
