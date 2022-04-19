@@ -12,11 +12,11 @@
 <div>
     <a href="https://www.linkedin.com/in/jes%C3%BAs-antonio-ugaz-vegas-ab04a8173/"
         style="display:flex;align-items:center;color:#1083B9;font-size:18px;padding: 1em 0;">
-        <img src="./images/logo1.png" style="margin-right:5px">
+        <img src="./images/logo1.png" style="margin-right:5px"/>
     </a>
 
-    <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJTGmdmKnHkFmXLDVbncrmhrFjSbXjrlZRsmFSFlQSCtsSbJmzJrrWzbGKpBwTlTQWNNlFg"
-    style="display:flex;align-items:center;" style="display:flex;align-items:center;color:#1083B9;font-size:18px;">
-        <img src="./images/logo2.png" style="margin-right:5px">
+   <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJTGmdmKnHkFmXLDVbncrmhrFjSbXjrlZRsmFSFlQSCtsSbJmzJrrWzbGKpBwTlTQWNNlFg"
+        style="display:flex;align-items:center;" style="display:flex;align-items:center;color:#1083B9;font-size:18px;">
+        <img src="./images/logo2.png" style="margin-right:5px"/>
     </a>
 </div>
