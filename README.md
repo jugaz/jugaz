@@ -1,3 +1,8 @@
+<style>
+    a {
+        text-decoration: unset !important;
+    }
+</style>
 <h1 align="center">Hola 👋, Soy Jesús Ugaz</h1>
 <h3 align="center">Programador Front End</h3>
 <p align="left">
