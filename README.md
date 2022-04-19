@@ -1,6 +1,6 @@
 <div style="display: flex;align-items: center;padding-bottom: 1em;">
     <a href="./">
-        <img src="docs/images/avatar.png">
+        <img src="./images/avatar.png">
     </a>
     <div style="padding-left: 2em;">
         <h1 style="margin:0;padding:0;">Hola soy Jesús 👍🏽</h1>
