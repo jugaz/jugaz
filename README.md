@@ -5,23 +5,7 @@
 </style>
 <h1 align="center">Hola 👋, Soy Jesús Ugaz</h1>
 <h3 align="center">Programador Front End</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jugaz" alt="jugaz" />
-  </a>
-</p>
-<h3 align="left">Contáctame :</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/jesus-ugaz-vegas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus-ugaz-vegas" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/jugaz12" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jugaz12" height="30" width="40" />
-  </a>
-  <a href="mailto:jesusugazv@correo.com" target="blank">
-    <img align="center" src="./images/gmail.svg" alt="gmail" height="30" width="40" />
-  </a>
-</p>
+
 <h3 align="left">Habilidades:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -84,6 +68,24 @@
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+  </a>
+</p>
+<h3 align="left">Contáctame :</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/jesus-ugaz-vegas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus-ugaz-vegas" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/jugaz12" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jugaz12" height="30" width="40" />
+  </a>
+  <a href="mailto:jesusugazv@correo.com" target="blank">
+    <img align="center" src="./images/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jugaz" alt="jugaz" />
   </a>
 </p>
 <p>
